@@ -41,9 +41,7 @@ Jika hasilnya seperti diatas selamat karena kalian sudah berhasil membuat htmlny
 
 - Perubahan:<br>
   - Disini mari kita coba edit bagian paragraf<br>
-  - ![Screenshot_2.png](Pic/Screenshot_2.png)<br>
+   ![Screenshot_2.png](Pic/Screenshot_2.png)<br>
   - Jika kita tambah align = "center" dan "right", maka tampilannya akan menjadi berikut<br>
-  - ![Screenshot_13.png](Pic/Screenshot_13.png)<br>
+   ![Screenshot_13.png](Pic/Screenshot_13.png)<br>
   - Kalian boleh mengeditnya selain menggunakan center dan right yaitu justify dan left sesuka hati kalian<br>
-
-# Jawab Pertanyaan Berikut:<br>
