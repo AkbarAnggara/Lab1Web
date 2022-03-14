@@ -34,6 +34,7 @@ Berikut adalah tampilan webnya dari HTML diatas<br>
   - Lalu ini adalah tampilan dari Page 2<br>
    ![Screenshot_9.png](Pic/Screenshot_9.png)<br>
   - Usahakan Page 2 berada di satu folder yang sama dengan Home Page sehingga ketika kita mengklik Page 2 di link navigasi tidak terjadi error<br>
+
 Oke setelah kalian membuat Home Page dan Page 2, maka selanjutnya kita tes di browser<br>
 ![Screenshot_8.png](Pic/Screenshot_8.png)<br>
 ![Screenshot_9.png](Pic/Screenshot_9.png)<br>
