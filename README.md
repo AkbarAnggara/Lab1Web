@@ -10,7 +10,7 @@ Tugas Pemrograman WEB Lab1Web<br>
 ![Screenshot_6.png](Pic/Screenshot_6.png)<br>
 Berikut adalah HTML yang saya buat sesuai urutannya<br>
 ![Screenshot_17.png](Pic/Screenshot_17.png)<br>
-Atau kalin bisa mengaksesnya dengan mengkliknya disamping [Click Here](Home_Page.html)<br>
+Atau kalin bisa mengaksesnya dengan mengklik disamping [Click Here](Home_Page.html)<br>
 
 Berikut adalah tampilan webnya dari HTML diatas<br>
 ![Screenshot_8.png](Pic/Screenshot_8.png)<br>
