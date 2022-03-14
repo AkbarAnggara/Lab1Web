@@ -9,10 +9,10 @@ Kelas : TI.20.B.1<br>
 Tugas Pemrograman WEB Lab1Web:<br>
 ![Screenshot_6.png](Pic/Screenshot_6.png)<br>
 Berikut adalah HTML yang saya buat sesuai urutannya:<br>
-![Screenshot_14.png](Pic/Screenshot_14.png)
+![Screenshot_14.png](Pic/Screenshot_14.png)<br>
 Atau kalin bisa mengaksesnya dengan mengkliknya disamping:[Click Here](Halaman_Beranda.html)<br>
 Berikut adalah tampilan webnya dari HTML diatas:<br>
-![Screenshot_8.png](Pic/Screenshot_8.png)
+![Screenshot_8.png](Pic/Screenshot_8.png)<br>
 
 - Keterangan:<br>
   - Pertama dibagian atas kita buat link navigasi dimana disitu ada 3 Page yaitu Home Page, Page 2, dan Page Google Website.<br>
