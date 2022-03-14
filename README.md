@@ -9,7 +9,7 @@ Kelas : TI.20.B.1<br>
 Tugas Pemrograman WEB Lab1Web:<br>
 ![Screenshot_6.png](Pic/Screenshot_6.png)<br>
 Berikut adalah HTML yang saya buat sesuai urutannya:<br>
-![Screenshot_14.png](Pic/Screenshot_14.png)<br>
+![Screenshot_17.png](Pic/Screenshot_17.png)<br>
 Atau kalin bisa mengaksesnya dengan mengkliknya disamping: [Click Here](Halaman_Beranda.html)<br>
 
 Berikut adalah tampilan webnya dari HTML diatas:<br>
