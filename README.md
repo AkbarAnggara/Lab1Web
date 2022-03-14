@@ -51,5 +51,8 @@ Jika hasilnya seperti diatas selamat karena kalian sudah berhasil membuat htmlny
    ![Screenshot_13.png](Pic/Screenshot_13.png)<br>
   - Kalian boleh mengeditnya selain menggunakan center dan right yaitu justify dan left sesuka hati kalian<br>
 
-# Jawab Pertanyan Berikut<br>
-![Screenshot_7.png](Pic/Screenshot_7.png)
+# Jawab Pertanyaan Berikut<br>
+![Screenshot_7.png](Pic/Screenshot_7.png)<br>
+
+Jawaban:<br>
+![Screenshot_20.png](Pic/Screenshot_20.png)
